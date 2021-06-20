@@ -1,6 +1,4 @@
-### I'm a Android Developer living in 🇧🇷 and working at [Zup Innovation](https://www.zup.com.br/).
-
-![Snake animation](https://github.com/LuizFmdr/LuizFilipeMedeira/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/LuizFmdr/LuizFmdr/blob/output/github-contribution-grid-snake.svg)
 
 ### Languages & Tools 🛠
 
