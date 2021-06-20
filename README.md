@@ -28,6 +28,8 @@
 </a>
 </p>
 
+<img width="100%" src="profile-summary-card-output/github/0-profile-details.svg" />
+
 ### Let's connect ? 🤝
 
 <p align="left">
