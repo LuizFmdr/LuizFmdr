@@ -15,7 +15,7 @@ jobs:
       - name: Summary Cards
         uses: vn7n24fzkq/github-profile-summary-cards@master
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.METRICS_TOKEN }}
         with:
           USERNAME: ${{ github.repository_owner }}
           
@@ -35,7 +35,7 @@ jobs:
           target_branch: output
           build_dir: dist
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.METRICS_TOKEN }}
 
   metrics-achievements:
     runs-on: ubuntu-latest
