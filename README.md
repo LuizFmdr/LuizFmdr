@@ -36,5 +36,5 @@
 <a href="https://www.linkedin.com/in/luiz-medeira/"><img src="https://img.shields.io/badge/-LuizFilipeMedeira-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="https://twitter.com/LuizFMedeira"><img src="https://img.shields.io/badge/-@LuizFMedeira-%231DA1F2?style=flat&logo=twitter&logoColor=white"/></a>
 <a href="https://stackoverflow.com/users/10795937/luiz?tab=profile"><img src="https://img.shields.io/badge/Luiz-D16f37?style=flat&logo=Stackoverflow&logoColor=white"/></a>
-<a href="mailto:luiz.fmdr@gmail.com"><img src="https://img.shields.io/badge/-luiz.fmdrd@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:luiz.fmdr@gmail.com"><img src="https://img.shields.io/badge/-luiz.fmdr@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
