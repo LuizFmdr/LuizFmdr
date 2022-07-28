@@ -28,8 +28,6 @@
 </a>
 </p>
 
-#(<img width="100%" src="github-metrics.svg" />)
-
 ### Let's connect ? 🤝
 
 <p align="left">
