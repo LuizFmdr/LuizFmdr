@@ -28,7 +28,7 @@
 </a>
 </p>
 
-<img width="100%" src="profile-summary-card-output/github/0-profile-details.svg" />
+<img width="100%" src="github-metrics.svg" />
 
 ### Let's connect ? 🤝
 
